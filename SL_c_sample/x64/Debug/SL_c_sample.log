@@ -1,0 +1,17 @@
+﻿  BPM.c
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\BPM.c(43,11): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\BPM.c(48,26): warning C4013: '_get_heartrate'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\BPM.c(56,20): warning C4013: 'argmax'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\BPM.c(57,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Common.c
+  ErscDSP_IIR.c
+  EsrcDSP_FFT.c
+  HrvAnalysis.c
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\HrvAnalysis.c(86,17): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\HrvAnalysis.c(90,54): warning C4133: '함수': 'int [4096]'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
+  main.c
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\main.c(43,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  fft.c
+  코드를 생성하고 있습니다...
+C:\Users\toddl\source\repos\rPPG_HRV_SL\SL_c_sample\BPM.c(53): warning C4716: 'get_bpm_single_channel': 값을 반환해야 합니다.
+  SL_c_sample.vcxproj -> C:\Users\toddl\source\repos\rPPG_HRV_SL\x64\Debug\SL_c_sample.exe

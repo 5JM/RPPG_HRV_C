@@ -1,0 +1,9 @@
+*.sln
+/x64
+/Debug
+.vscode
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+*.c
